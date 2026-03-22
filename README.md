@@ -1,6 +1,9 @@
-# 🤖 AI Chat App — Native Kotlin + Gemini AI
+# AI Chat App — Native Kotlin + Gemini AI
 
-A production-grade Android chat app using:
+An AI-powered chat app built with Kotlin, Jetpack Compose, and Gemini AI.
+
+## Tech Stack
+
 - **Kotlin** + **Jetpack Compose** (UI)
 - **Gemini API** (Google AI)
 - **MVVM + Clean Architecture**
@@ -22,4 +25,3 @@ app/
 │   └── theme/          # App theme
 ├── di/                 # Hilt modules
 └── MainActivity.kt
-```
